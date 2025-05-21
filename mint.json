@@ -7,31 +7,71 @@
   },
   "navigation": [
     {
-      "group": "Documentation",
+      "group": "Basics",
       "pages": [
         "get-started/introduction",
         "get-started/quickstart",
-        "get-started/how-to-play",
+        "get-started/how-to-play"
+      ]
+    },
+    {
+      "group": "Lore",
+      "pages": [
         "lore-&-story/world-lore",
-        "lore-&-story/player's-role",
+        "lore-&-story/player's-role"
+      ]
+    },
+    {
+      "group": "Gameplay",
+      "pages": [
         "gameplay/core-features",
         "gameplay/stats-&-resources",
-        "gameplay/inventory-&-items",
+        "gameplay/inventory-&-items"
+      ]
+    },
+    {
+      "group": "World & Maps",
+      "pages": [
         "map-&-world/maps-overview",
-        "map-&-world/custom-home-utility",
+        "map-&-world/custom-home-utility"
+      ]
+    },
+    {
+      "group": "NPC & Quests",
+      "pages": [
         "npc-&-quest/npc-guide",
-        "npc-&-quest/quests-&-rewards",
+        "npc-&-quest/quests-&-rewards"
+      ]
+    },
+    {
+      "group": "Web3 Integration",
+      "pages": [
         "web3-integration/wallet-&-login",
-        "web3-integration/token-&-economy",
-        "multiplayer/realtime-rooms",
-        "roadmap/feature-roadmap",
+        "web3-integration/token-&-economy"
+      ]
+    },
+    {
+      "group": "Multiplayer",
+      "pages": [
+        "multiplayer/realtime-rooms"
+      ]
+    },
+    {
+      "group": "Roadmap",
+      "pages": [
+        "roadmap/feature-roadmap"
+      ]
+    },
+    {
+      "group": "Team & Contribution",
+      "pages": [
         "team-&-contribution/team-&-credits",
         "team-&-contribution/contribution-guide"
       ]
     }
   ],
   "sidebar": {
-    "Get Started": [
+    "Basics": [
       "get-started/introduction",
       "get-started/quickstart",
       "get-started/how-to-play"
