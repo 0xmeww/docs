@@ -1,10 +1,49 @@
 {
   "name": "Meww Universe Docs",
   "description": "Documentation for Meww Universe — a casual cat-themed pixel-art game that combines exploration, interaction, on-chain economy, and life simulation elements. Built with great attention to player progression and ecosystem balance, the game offers a unique and ever-evolving experience — from feeding cats to building NFT houses with special amenities.",
-  "favicon": "/favicon.svg",
-  "sidebar": "sidebar.yaml",
-  "socials": {
-    "github": "https://github.com/0xmeww/docs",
-    "discord": ""
+  "colors": {
+    "accent": "#FF6F61", 
+    "accentText": "#ffffff"
+  },
+  "navigation": {
+    "favicon": "/favicon.svg"
+  },
+  "sidebar": {
+    "Get Started": [
+      "get-started/introduction",
+      "get-started/quickstart",
+      "get-started/how-to-play"
+    ],
+    "Lore & Story": [
+      "lore-&-story/world-lore",
+      "lore-&-story/player's-role"
+    ],
+    "Gameplay": [
+      "gameplay/core-features",
+      "gameplay/stats-&-resources",
+      "gameplay/inventory-&-items"
+    ],
+    "Map & World": [
+      "map-&-world/maps-overview",
+      "map-&-world/custom-home-utility"
+    ],
+    "NPC & Quest": [
+      "npc-&-quest/npc-guide",
+      "npc-&-quest/quests-&-rewards"
+    ],
+    "Web3 Integration": [
+      "web3-integration/wallet-&-login",
+      "web3-integration/token-&-economy"
+    ],
+    "Multiplayer": [
+      "multiplayer/realtime-rooms"
+    ],
+    "Roadmap": [
+      "roadmap/feature-roadmap"
+    ],
+    "Team & Contribution": [
+      "team-&-contribution/team-&-credits",
+      "team-&-contribution/contribution-guide"
+    ]
   }
 }
