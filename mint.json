@@ -7,12 +7,27 @@
   },
   "navigation": [
     {
-      "title": "GitHub",
-      "url": "https://github.com/0xmeww/docs"
-    },
-    {
-      "title": "Discord",
-      "url": "https://discord.gg/yourserver"
+      "group": "Documentation",
+      "pages": [
+        "get-started/introduction",
+        "get-started/quickstart",
+        "get-started/how-to-play",
+        "lore-&-story/world-lore",
+        "lore-&-story/player's-role",
+        "gameplay/core-features",
+        "gameplay/stats-&-resources",
+        "gameplay/inventory-&-items",
+        "map-&-world/maps-overview",
+        "map-&-world/custom-home-utility",
+        "npc-&-quest/npc-guide",
+        "npc-&-quest/quests-&-rewards",
+        "web3-integration/wallet-&-login",
+        "web3-integration/token-&-economy",
+        "multiplayer/realtime-rooms",
+        "roadmap/feature-roadmap",
+        "team-&-contribution/team-&-credits",
+        "team-&-contribution/contribution-guide"
+      ]
     }
   ],
   "sidebar": {
