@@ -1,0 +1,10 @@
+{
+  "name": "Meww Universe Docs",
+  "description": "Documentation for Meww Universe — a casual cat-themed pixel-art game that combines exploration, interaction, on-chain economy, and life simulation elements. Built with great attention to player progression and ecosystem balance, the game offers a unique and ever-evolving experience — from feeding cats to building NFT houses with special amenities.",
+  "favicon": "/favicon.svg",
+  "sidebar": "sidebar.yaml",
+  "socials": {
+    "github": "https://github.com/0xmeww/docs",
+    "discord": ""
+  }
+}
