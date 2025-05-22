@@ -42,7 +42,10 @@ Stat recovery can be achieved through feeding, resting, or using utilities found
 
 Many objects in the game world are interactive. Key examples include:
 
-- **Bed**: Reduces stress over time
+- **Bed**: Restores energy when used
+- **Gym**: Increases energy and reduces stress
+- **Toilet**: Reduces stress through a short cooldown interaction
+- **Kitchen**: Restores health using in-game resources
 - **PC**: Opens access to game interfaces or mini-games
 - **Table**: Functions as a temporary access point for your inventory. In future updates, a dedicated inventory box system will be introduced.
 - **Door**: Serves as a transition point to enter new areas such as the Townhall. Additional zones and objects will be added progressively throughout development.
