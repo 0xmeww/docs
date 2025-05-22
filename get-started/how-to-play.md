@@ -31,7 +31,7 @@ Feeding is not limited to daily caps—players are free to use food items as nee
 Your character has three core status attributes:
 
 - **Energy**: Depleted by actions like mining or participating in mini-games
-- **Health**: Decreases when taking damage or failing an activity
+- **Health**: Depleted by actions like mining or participating in mini-games
 - **Stress**: Builds up with continuous actions and reduces efficiency if not managed
 
 Stat recovery can be achieved through feeding, resting, or using utilities found in NFT-based homes (coming soon).
