@@ -1,3 +1,3 @@
-# Core Features
+# 
 
-> _(Content for **Core Features** goes here.)_
+> **_( Update about this page is coming. )_**

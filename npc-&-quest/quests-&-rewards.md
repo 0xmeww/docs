@@ -1,3 +1,3 @@
-# Quests & Rewards
+# 
 
-> _(Content for **Quests & Rewards** goes here.)_
+> **_( Update about this page is coming. )_**

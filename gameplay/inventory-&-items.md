@@ -1,3 +1,3 @@
-# Inventory & Items
+# 
 
-> _(Content for **Inventory & Items** goes here.)_
+> **_( Update about this page is coming. )_**

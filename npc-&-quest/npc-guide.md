@@ -1,3 +1,3 @@
-# NPC Guide
+# 
 
-> _(Content for **NPC Guide** goes here.)_
+> **_( Update about this page is coming. )_**

@@ -1,3 +1,3 @@
-# Team & Credits
+# 
 
-> _(Content for **Team & Credits** goes here.)_
+> **_( Update about this page is coming. )_**

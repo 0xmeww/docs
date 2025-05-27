@@ -1,3 +1,3 @@
-# Stats & Resources
+# 
 
-> _(Content for **Stats & Resources** goes here.)_
+> **_( Update about this page is coming. )_**

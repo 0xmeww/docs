@@ -1,3 +1,3 @@
-# World Lore
+# 
 
-> _(Content for **World Lore** goes here.)_
+> **_( Update about this page is coming. )_**

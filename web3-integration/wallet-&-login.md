@@ -1,3 +1,3 @@
 # 
 
-> **_(Content for Wallet & Login goes here.)_**
+> **_( Update about this page is coming. )_**
